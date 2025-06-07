@@ -1,7 +1,5 @@
-fastapi
-uvicorn
-scikit-learn==1.7.0
-joblib
+flask
 numpy
-requests
-python-multipart
+joblib
+flask-cors
+gunicorn
