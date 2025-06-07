@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-joblib
 scikit-learn
+joblib
+numpy
 requests
-python-multipart
